@@ -21,3 +21,4 @@ This project analyzes retail sales data using Power BI to generate business insi
 - Analyzed category-wise profit contribution
 - Enabled dynamic filtering using slicers
 
+![Dashboard](https://github.com/tanvic21/Sales-Performance-Dashboard/blob/main/dashboard.png?raw=true)
